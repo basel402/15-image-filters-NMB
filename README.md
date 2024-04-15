@@ -1,1 +1,1 @@
-# 15 imgae filters
+# 15 image filters
